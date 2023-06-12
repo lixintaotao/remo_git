@@ -1,4 +1,4 @@
-package com.example.local_demo;
+package com.tt.git_deml;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
